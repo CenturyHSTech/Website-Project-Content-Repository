@@ -1,4 +1,6 @@
-Pixel art for video games is a distinctive form of digital art characterized by the use of small, square-shaped pixels to create graphics and visuals within a game environment. Each pixel serves as a building block, and the combination of these pixels forms the overall visual elements of the game, including characters, backgrounds, objects, and user interface elements.
+Characteristics
+
+Each pixel serves as a building block, and the combination of these pixels forms the overall visual elements of the game, including characters, backgrounds, objects, and user interface elements.
 
 Key characteristics of pixel art for video games include:
 
